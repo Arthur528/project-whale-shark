@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../../assets/images/profile.png';
+import ProfilePic from '../../assets/images/WIN_20220907_10_34_27_Pro.jpg';
 
 function About() {
     return (
